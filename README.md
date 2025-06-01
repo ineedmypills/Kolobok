@@ -74,7 +74,7 @@
 ### Общие сведения:
 * Наименование системы: "Kolobok".
 * Заказчик: Top | Компьютерная академия
-* Разработчик: PillDevTeam (ineedmypills)
+* Разработчик: PillDevTeam ([@ineedmypills](https://github.com/ineedmypills), [@TlyTla](https://github.com/TlyTla))
 * Основание для разработки: Студенческий проект
 
 ### Назначение и цели создания системы:
